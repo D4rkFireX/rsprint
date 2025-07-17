@@ -1,0 +1,19 @@
+@media screen and (width: 1366px) {
+
+    body .mensagem{
+        height: 500px;
+        padding-bottom: 15px;
+    }
+
+    .mensagem h1{
+        font-size: 31px;
+    }
+
+    .mensagem #header-hr{
+        width: 1100px;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+
+}
